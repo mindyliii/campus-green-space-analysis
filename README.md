@@ -41,6 +41,7 @@ Interpretation: Green-space engagement was positively correlated with well-being
 
 ### 2. Correlation Heatmap
 ![Correlation Heatmap](green_space_heatmap.png)
+
 Interpretation: Green-space engagement had the strongest observed correlation with well-being among the variables examined.
 
 ### 3. Student Well-Being by Campus Environment
