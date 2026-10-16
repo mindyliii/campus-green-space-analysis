@@ -45,16 +45,19 @@ Interpretation: Green-space engagement had the strongest observed correlation wi
 
 ### 3. Student Well-Being by Campus Environment
 ![Campus Environment Box Plot](green_space_urban_boxplot.png)
+
 The distribution of WHO-5 well-being scores among students attending urban and suburban campuses.
 Interpretation: The t-test did not find a statistically significant difference in well-being between students attending urban and suburban campuses (\(p > 0.05\)). The analysis did not provide sufficient evidence of a difference between the groups.
 
 ### 4. Student Well-Being by Age Group
 ![Age Group Box Plot](green_space_agerange_boxplot.png)
+
 The distribution of WHO-5 well-being scores across the three age groups.
 Interpretation: The ANOVA did not find a statistically significant difference in well-being across age groups (\(p > 0.05\)). The analysis did not provide sufficient evidence that average well-being differed among the age groups.
 
 ### 5. Mediation Analysis
 ![Mediation Diagram](green_space_mediation_diagram.png)
+
 The proposed indirect pathway between perceived being away and well-being through green-space engagement.
 Interpretation: The estimated indirect effect was 0.227, but its 95% bootstrap confidence interval (−0.016 to 0.527) included zero. The mediation effect was not statistically significant at the 5% level.
 
