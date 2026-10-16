@@ -36,6 +36,8 @@ The data are observational, so the results cannot establish cause and effect. Mi
 ### Visualizations
 This repository includes visualizations of the relationships between green-space engagement, student well-being, correlations among study variables, demographic group comparisons, and the mediation model.
 
+### Green-Engagement and Student Well-being
+
 
 
 
