@@ -15,12 +15,12 @@ Does green-space engagement help explain the relationship between perceived bein
 Tools: Python, pandas, Matplotlib, Seaborn, SciPy, and statsmodels
 
 ## Analysis
-Data cleaning
-Descriptive statistics and correlation analysis
-Regression analysis
-Group comparisons using t-tests and ANOVA
-Mediation analysis with bootstrap confidence intervals
-Data visualization
+- Data cleaning
+- Descriptive statistics and correlation analysis
+- Regression analysis
+- Group comparisons using t-tests and ANOVA
+- Mediation analysis with bootstrap confidence intervals
+- Data visualization
 
 
 ### Mediation analysis
