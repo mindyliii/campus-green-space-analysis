@@ -22,9 +22,6 @@ Group comparisons using t-tests and ANOVA
 Mediation analysis with bootstrap confidence intervals
 Data visualization
 
-## Key Findings
-
-Green-space engagement was positively correlated with student well-being (r = 0.382, p = 0.0004). Students reporting greater engagement also tended to report higher well-being. This association does not establish causation.
 
 ### Mediation analysis
 
@@ -60,6 +57,15 @@ Interpretation: The ANOVA did not find a statistically significant difference in
 ![Mediation Diagram](green_space_mediation_diagram.png)
 The proposed indirect pathway between perceived being away and well-being through green-space engagement.
 Interpretation: The estimated indirect effect was 0.227, but its 95% bootstrap confidence interval (−0.016 to 0.527) included zero. The mediation effect was not statistically significant at the 5% level.
+
+## Key Findings
+Green-space engagement: Positively correlated with student well-being (r = 0.382, p = 0.0004).
+
+Perceived restorativeness: Perceived being away had a positive correlation with well-being (r = 0.252, p = 0.0233). Fascination and compatibility had weaker associations that did not reach the conventional 5% significance threshold.
+
+Mediation analysis: The indirect effect through green-space engagement was not statistically significant because its 95% bootstrap confidence interval included zero.
+
+Limitations: These observational results identify associations, not causal relationships.
 
 
 
