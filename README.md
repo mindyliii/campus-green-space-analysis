@@ -36,7 +36,22 @@ The data are observational, so the results cannot establish cause and effect. Mi
 ### Visualizations
 This repository includes visualizations of the relationships between green-space engagement, student well-being, correlations among study variables, demographic group comparisons, and the mediation model.
 
-### Green-Engagement and Student Well-being
+
+### 1. Green Engagement and Student Well-Being
+![Green Engagement Scatter Plot](green_space_scatterplot.png)
+
+### 2. Correlation Heatmap
+![Correlation Heatmap](green_space_heatmap.png)
+
+### 3. Student Well-Being by Campus Environment
+![Campus Environment Box Plot](green_space_urban_boxplot.png)
+
+### 4. Student Well-Being by Age Group
+![Age Group Box Plot](green_space_agerange_boxplot.png)
+
+### 5. Mediation Analysis
+![Mediation Diagram](green_space_mediation_diagram.png)
+
 
 
 
